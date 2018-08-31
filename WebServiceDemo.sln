@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWebApplication", 
 		{585D3627-CD02-4FB5-B13A-214BE184BE43} = {585D3627-CD02-4FB5-B13A-214BE184BE43}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentWebService", "StudentWebServuice\StudentWebService.csproj", "{1DA89027-8C18-4A1D-B4B6-0B2E0683284F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{84F3FA01-3882-41F9-BCDE-4F65A99712D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84F3FA01-3882-41F9-BCDE-4F65A99712D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84F3FA01-3882-41F9-BCDE-4F65A99712D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA89027-8C18-4A1D-B4B6-0B2E0683284F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA89027-8C18-4A1D-B4B6-0B2E0683284F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA89027-8C18-4A1D-B4B6-0B2E0683284F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA89027-8C18-4A1D-B4B6-0B2E0683284F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
